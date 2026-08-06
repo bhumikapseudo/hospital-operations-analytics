@@ -21,7 +21,7 @@ Four interactive dashboards, each focused on a specific operational question:
 3. **Treatment Cost Dashboard** — which diagnoses drive the highest total treatment costs, and how cost relates to length of stay
 4. **Length of Stay Dashboard** — which diagnoses are associated with longer hospital stays
 
-🔗 ![Patient & Admissions Overview](tableau/patient_admissions_overview.png)
+ ![Patient & Admissions Overview](tableau/patient_admissions_overview.png)
 
 ![Readmissions Dashboard](tableau/readmissions_dashboard.png)
 
