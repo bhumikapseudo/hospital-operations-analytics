@@ -49,7 +49,7 @@ The `/sql` folder contains a 19-query script progressing from beginner to advanc
 
 I also built this analysis as a Power BI dashboard to demonstrate versatility across BI tools.
 
-![Power BI Dashboard]
+![Power BI Dashboard] Hosp_Analytics_Dashboard_Power_BI.png
 
 ## Key Insights
 
