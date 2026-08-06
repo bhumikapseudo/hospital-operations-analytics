@@ -29,6 +29,8 @@ Four interactive dashboards, each focused on a specific operational question:
 
 ![Length of Stay Dashboard](tableau/length_of_stay_dashboard.png)
 
+🔗 [View the interactive Length of Stay Dashboard on Tableau Public](https://public.tableau.com/views/Healthcare_AnalyticalDashboard_July_2/LengthofStayDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ## SQL Analysis
 
