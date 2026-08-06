@@ -57,13 +57,15 @@ I also built this analysis as a Power BI dashboard to demonstrate versatility ac
 - Type 1 diabetes patients have the highest 30-day readmission rate (~21%) despite not being the highest-cost diagnosis
 - Average length of stay is 5.2 days, with type 1 diabetes patients averaging the longest stays
 - Insurance type shows relatively little variation in average charges, suggesting cost drivers are more diagnosis-related than payer-related
-
 ## Repository Structure
+
+```
 hospital-operations-analytics/
 ├── README.md
 ├── sql/
-│ └── hospital_operations_queries.sql
+│   └── hospital_operations_queries.sql
 ├── tableau/
-│ └── dashboard screenshots
+│   └── dashboard screenshots
 └── powerbi/
-└── powerbi_dashboard.png
+    └── powerbi_dashboard.png
+```
